@@ -1,16 +1,48 @@
-# event_application1
+# EeventBee
 
-A new Flutter project.
+**EventBee**
+EventBee is an innovative application designed for seamless event booking and creation. Built using Flutter and Firebase, EventBee provides a robust and user-friendly platform for all your event needs.
 
-## Getting Started
+**Features**
+User Authentication: Login and register with ease.
+Event Creation: Create and manage your own events.
+Event Management: Update and delete your events.
+Favorites: Add events to your favorites list.
+Ticket Booking: Book tickets for your favorite events.
 
-This project is a starting point for a Flutter application.
+**Technologies Used**
+Flutter: For building a responsive and attractive UI.
+Firebase: For secure and efficient backend services.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Installation**
+Clone the repository:
+git clone https://github.com/devaa11/EventBee.git
+
+Navigate to the project directory:
+cd EventBee
+
+Install dependencies:
+flutter pub get
+
+Run the application:
+flutter run
+
+**Configuration**
+To configure Firebase for your project:
+
+Create a Firebase project at Firebase Console.
+Add your app to the Firebase project and download the google-services.json file.
+Place the google-services.json file in the android/app directory of your project.
+Follow the FlutterFire documentation to complete the setup.
+
+**Contributing**
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.
+
+
+**Contact**
+For any questions or feedback, feel free to reach out:
+
+Email: devbharambe2003@gmail.com
+LinkedIn: www.linkedin.com/in/devendra-bharambe-519219270
